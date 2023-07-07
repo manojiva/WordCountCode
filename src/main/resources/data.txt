@@ -1,0 +1,2 @@
+You are to implement a Python function which reads a text file and counts how often words occur
+Once you have the basic implementation working you should enhance your implementation to allow multiple threads or processes to process the word count problem in parallel
